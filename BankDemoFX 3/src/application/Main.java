@@ -22,7 +22,7 @@ public class Main extends Application {
 			stage.show();
 
 		} catch (Exception e) {
-			System.out.println("Error occurred while inflating view: " + e);
+			System.out.println("Errors occurred while inflating view: " + e);
 		}
 	}
 
