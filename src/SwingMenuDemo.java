@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SwingMenuDemo implements ActionListener {
+   
    private JFrame mainFrame;
    private JLabel statusLabel;
    private JCheckBoxMenuItem toggleMenuItem;
