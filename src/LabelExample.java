@@ -11,7 +11,7 @@ public class LabelExample extends JFrame implements ActionListener {
 	JTextField tf;
 	JLabel l;
 	JButton b;
-
+    // upd
 	LabelExample() {
 		tf = new JTextField();
 		tf.setBounds(50, 50, 150, 20);
